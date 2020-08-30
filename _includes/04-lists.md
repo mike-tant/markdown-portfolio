@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Favorite Beers:
+* New Belgium Fat Tire
+* Stella Artois
+* Yuengling Lager
